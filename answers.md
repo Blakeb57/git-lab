@@ -1,6 +1,6 @@
 version 2.17.1
-user.blake=Boehringer
-An entire help page for git pops up when git add --help is typed in
+user.blake=Boehringer user.email=bb148917@ohio.edu 
+An entire help list for git commands pops up when git add --help is typed in. Then list also explains what the git commands due.
 the output listed my untracked files README.md amd amswers.md and tells me how to track them
 the output put the README.md file as mew file and under the changes to be committed section while keeping the answers.md under the untracked files section
 after adding the answers.md file it has now become groupd with the README.md file listed as new file and under the changes to be committed section
